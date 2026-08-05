@@ -1,6 +1,6 @@
 # Hi, I'm Pruthvik 👋
 
-I'm a Computer Science student interested in backend development, distributed systems, and full-stack development. I enjoy building practical projects, solving coding problems, and learning new technologies.
+I'm a Information Science student interested in backend development, distributed systems, and full-stack development. I enjoy building practical projects, solving coding problems, and learning new technologies.
 
 ## 🚀 About Me
 
