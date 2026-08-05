@@ -53,5 +53,5 @@ I'm a Computer Science student interested in backend development, distributed sy
 
 ## 🤝 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/pruthviklshetty
+- Email: pruthviklshetty@gmail.com
