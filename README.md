@@ -43,13 +43,7 @@ I'm a Computer Science student interested in backend development, distributed sy
 - 🌐 Full-Stack Web Applications
 - 📚 More projects coming soon...
 
-## 📈 GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## 🤝 Connect with Me
 
