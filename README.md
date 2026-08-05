@@ -13,10 +13,3 @@ Information Science student interested in **Backend Development, Distributed Sys
 **Backend:** FastAPI, REST APIs  
 **Databases:** PostgreSQL, Redis  
 **Tools:** Git, GitHub, Docker, Linux, VS Code
-
-## 📌 Featured Project
-- 🚀 Distributed Rate Limiter
-
-## 📫 Connect
-- **LinkedIn:** www.linkedin.com/in/pruthviklshetty
-- **Email:** pruthviklshetty@gmail.com
