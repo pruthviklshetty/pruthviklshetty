@@ -4,7 +4,6 @@ Information Science student interested in **Backend Development, Distributed Sys
 
 ## 🚀 Currently
 - Building a **Distributed Rate Limiter**
-- Learning **System Design** & **Distributed Systems**
 - Practicing **Data Structures & Algorithms**
 
 ## 🛠️ Tech Stack
