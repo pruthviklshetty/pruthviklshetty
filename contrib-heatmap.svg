@@ -1,0 +1,4157 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="1012"
+    height="186"
+    viewBox="0 0 1012 186">
+
+<style>
+@keyframes reveal {
+    from {
+        opacity: 0;
+        transform: translateY(-4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
+<rect
+    width="100%"
+    height="100%"
+    fill="#0d1117"
+    rx="12"
+/>
+
+<text
+    x="20"
+    y="25"
+    fill="#c9d1d9"
+    font-family="monospace"
+    font-size="14">
+    GitHub Contributions
+</text>
+
+<rect
+    x="20"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.150s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.175s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.200s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.225s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.250s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.275s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.300s forwards;">
+</rect>
+
+<rect
+    x="38"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.325s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.350s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.375s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.400s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.425s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.450s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.475s forwards;">
+</rect>
+
+<rect
+    x="56"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.500s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.525s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.550s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.575s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.600s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.625s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.650s forwards;">
+</rect>
+
+<rect
+    x="74"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.675s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.700s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.725s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.750s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.775s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.800s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.825s forwards;">
+</rect>
+
+<rect
+    x="92"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.850s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.875s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.900s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.925s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.950s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 0.975s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.000s forwards;">
+</rect>
+
+<rect
+    x="110"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.025s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.050s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.075s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.100s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.125s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.150s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.175s forwards;">
+</rect>
+
+<rect
+    x="128"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.200s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.225s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.250s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.275s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.300s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.325s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.350s forwards;">
+</rect>
+
+<rect
+    x="146"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.375s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.400s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.425s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.450s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.475s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.500s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.525s forwards;">
+</rect>
+
+<rect
+    x="164"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.550s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.575s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.600s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.625s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.650s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.675s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.700s forwards;">
+</rect>
+
+<rect
+    x="182"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.725s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.750s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.775s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.800s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.825s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.850s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.875s forwards;">
+</rect>
+
+<rect
+    x="200"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.900s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.925s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.950s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 1.975s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.000s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.025s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.050s forwards;">
+</rect>
+
+<rect
+    x="218"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.075s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.100s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.125s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.150s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.175s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.200s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.225s forwards;">
+</rect>
+
+<rect
+    x="236"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.250s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.275s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.300s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.325s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.350s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.375s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.400s forwards;">
+</rect>
+
+<rect
+    x="254"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.425s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.450s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.475s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.500s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.525s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.550s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.575s forwards;">
+</rect>
+
+<rect
+    x="272"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.600s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.625s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.650s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.675s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.700s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.725s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.750s forwards;">
+</rect>
+
+<rect
+    x="290"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.775s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.800s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.825s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.850s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.875s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.900s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.925s forwards;">
+</rect>
+
+<rect
+    x="308"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.950s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 2.975s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.000s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.025s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.050s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.075s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.100s forwards;">
+</rect>
+
+<rect
+    x="326"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.125s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.150s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.175s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.200s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.225s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.250s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.275s forwards;">
+</rect>
+
+<rect
+    x="344"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.300s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.325s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.350s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.375s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.400s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.425s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.450s forwards;">
+</rect>
+
+<rect
+    x="362"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.475s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.500s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.525s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.550s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.575s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.600s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.625s forwards;">
+</rect>
+
+<rect
+    x="380"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.650s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.675s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.700s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.725s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.750s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.775s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.800s forwards;">
+</rect>
+
+<rect
+    x="398"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.825s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.850s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.875s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.900s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.925s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.950s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 3.975s forwards;">
+</rect>
+
+<rect
+    x="416"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.000s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.025s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.050s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.075s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.100s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.125s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.150s forwards;">
+</rect>
+
+<rect
+    x="434"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.175s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.200s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.225s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.250s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.275s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.300s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.325s forwards;">
+</rect>
+
+<rect
+    x="452"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.350s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.375s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.400s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.425s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.450s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.475s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.500s forwards;">
+</rect>
+
+<rect
+    x="470"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.525s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.550s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.575s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.600s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.625s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.650s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.675s forwards;">
+</rect>
+
+<rect
+    x="488"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.700s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.725s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.750s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.775s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.800s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.825s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.850s forwards;">
+</rect>
+
+<rect
+    x="506"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.875s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.900s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.925s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.950s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 4.975s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.000s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.025s forwards;">
+</rect>
+
+<rect
+    x="524"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.050s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.075s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.100s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.125s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.150s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.175s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.200s forwards;">
+</rect>
+
+<rect
+    x="542"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.225s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.250s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.275s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.300s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.325s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.350s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.375s forwards;">
+</rect>
+
+<rect
+    x="560"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.400s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.425s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.450s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.475s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.500s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.525s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.550s forwards;">
+</rect>
+
+<rect
+    x="578"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.575s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.600s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.625s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.650s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.675s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.700s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.725s forwards;">
+</rect>
+
+<rect
+    x="596"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.750s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.775s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.800s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.825s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.850s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.875s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.900s forwards;">
+</rect>
+
+<rect
+    x="614"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.925s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.950s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 5.975s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.000s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.025s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.050s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.075s forwards;">
+</rect>
+
+<rect
+    x="632"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.100s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.125s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.150s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.175s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.200s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.225s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.250s forwards;">
+</rect>
+
+<rect
+    x="650"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.275s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.300s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.325s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.350s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.375s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.400s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.425s forwards;">
+</rect>
+
+<rect
+    x="668"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.450s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.475s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#0e4429"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.500s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.525s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.550s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.575s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.600s forwards;">
+</rect>
+
+<rect
+    x="686"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.625s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.650s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.675s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.700s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.725s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.750s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.775s forwards;">
+</rect>
+
+<rect
+    x="704"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.800s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.825s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.850s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.875s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.900s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.925s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.950s forwards;">
+</rect>
+
+<rect
+    x="722"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 6.975s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.000s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.025s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.050s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.075s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.100s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.125s forwards;">
+</rect>
+
+<rect
+    x="740"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.150s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.175s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.200s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.225s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.250s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.275s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.300s forwards;">
+</rect>
+
+<rect
+    x="758"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.325s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.350s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.375s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.400s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.425s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.450s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.475s forwards;">
+</rect>
+
+<rect
+    x="776"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.500s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.525s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.550s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.575s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.600s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.625s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.650s forwards;">
+</rect>
+
+<rect
+    x="794"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.675s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.700s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.725s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.750s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.775s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.800s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.825s forwards;">
+</rect>
+
+<rect
+    x="812"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.850s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.875s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.900s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.925s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.950s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 7.975s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.000s forwards;">
+</rect>
+
+<rect
+    x="830"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.025s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.050s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.075s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.100s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.125s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.150s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.175s forwards;">
+</rect>
+
+<rect
+    x="848"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.200s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.225s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.250s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.275s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.300s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.325s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.350s forwards;">
+</rect>
+
+<rect
+    x="866"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.375s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.400s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.425s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.450s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.475s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.500s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.525s forwards;">
+</rect>
+
+<rect
+    x="884"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.550s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.575s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.600s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.625s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.650s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.675s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.700s forwards;">
+</rect>
+
+<rect
+    x="902"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.725s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.750s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.775s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.800s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.825s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.850s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.875s forwards;">
+</rect>
+
+<rect
+    x="920"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.900s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.925s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.950s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 8.975s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.000s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.025s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.050s forwards;">
+</rect>
+
+<rect
+    x="938"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.075s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#39d353"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.100s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.125s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#39d353"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.150s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#006d32"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.175s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="112"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.200s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="130"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.225s forwards;">
+</rect>
+
+<rect
+    x="956"
+    y="148"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.250s forwards;">
+</rect>
+
+<rect
+    x="974"
+    y="40"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.275s forwards;">
+</rect>
+
+<rect
+    x="974"
+    y="58"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.300s forwards;">
+</rect>
+
+<rect
+    x="974"
+    y="76"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.325s forwards;">
+</rect>
+
+<rect
+    x="974"
+    y="94"
+    width="14"
+    height="14"
+    rx="3"
+    fill="#161b22"
+    opacity="0"
+    style="animation: reveal 0.4s ease-out 9.350s forwards;">
+</rect>
+
+<text
+    x="20"
+    y="171"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="10">
+    Less
+</text>
+
+<rect
+    x="55"
+    y="161"
+    width="12"
+    height="12"
+    rx="2"
+    fill="#161b22">
+</rect>
+
+<rect
+    x="75"
+    y="161"
+    width="12"
+    height="12"
+    rx="2"
+    fill="#0e4429">
+</rect>
+
+<rect
+    x="95"
+    y="161"
+    width="12"
+    height="12"
+    rx="2"
+    fill="#006d32">
+</rect>
+
+<rect
+    x="115"
+    y="161"
+    width="12"
+    height="12"
+    rx="2"
+    fill="#26a641">
+</rect>
+
+<rect
+    x="135"
+    y="161"
+    width="12"
+    height="12"
+    rx="2"
+    fill="#39d353">
+</rect>
+
+<text
+    x="160"
+    y="171"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="10">
+    More
+</text>
+</svg>

@@ -1,0 +1,619 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="480"
+height="603"
+viewBox="0 0 480 603">
+
+<rect
+width="100%"
+height="100%"
+fill="#0d1117"
+/>
+
+<style>
+
+.ascii-row {
+    opacity: 0;
+    animation:
+        print-row 0.6s ease-out forwards;
+}
+
+@keyframes print-row {
+
+    from {
+        opacity: 0;
+        transform: translateX(-12px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+}
+
+</style>
+
+<text
+class="ascii-row"
+x="0"
+y="15"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.000s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="26"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.035s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="37"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.070s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="48"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.105s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="59"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.140s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="70"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.175s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="81"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.210s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="92"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.245s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="103"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.280s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="114"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.315s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="125"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.350s;"
+>                                                                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="136"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.385s;"
+>                                           .:`.                                 </text>
+
+<text
+class="ascii-row"
+x="0"
+y="147"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.420s;"
+>                                     `-==++=+cc`                                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="158"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.455s;"
+>                                  `=+csccssss#s=`                               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="169"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.490s;"
+>                              ``:-=**s#ccccss##c:                               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="180"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.525s;"
+>                             .::+sss####scccss*cc.                              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="191"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.560s;"
+>                             .`:=##%%##%##sc+---+.                              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="202"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.595s;"
+>                            `=+++*%%%c++*c*=-*c+:`                              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="213"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.630s;"
+>                           `-=:`+-+%%+=*c#s+:--:`.                              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="224"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.665s;"
+>                           --=`**  c%*====--`.````                              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="235"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.700s;"
+>                          .--+*=   `=c*==---++:-`*sc*-                          </text>
+
+<text
+class="ascii-row"
+x="0"
+y="246"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.735s;"
+>                          :-++=      .`=+=+*++-:-=``+%+                         </text>
+
+<text
+class="ascii-row"
+x="0"
+y="257"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.770s;"
+>                        `:-=*:        .+*+++=++=+=-:=c+:                        </text>
+
+<text
+class="ascii-row"
+x="0"
+y="268"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.805s;"
+>                      .+ssccc         `s#s++cs#####s##sc:..                     </text>
+
+<text
+class="ascii-row"
+x="0"
+y="279"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.840s;"
+>                     -c##ss#s.        =%##scs##s%%#*--cs*=====`                 </text>
+
+<text
+class="ascii-row"
+x="0"
+y="290"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.875s;"
+>                   .+#sscs##c`  .`:-::+sss###%%#scc=.`:*s+*+cc+-                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="301"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.910s;"
+>                   -ss*ccs%%= `:=-::`=scs#ssssscc*c+..`:***c#**+:               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="312"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.945s;"
+>                  `*ss##s###=:-+=:`-*sss##sssssc**c*```:=cs%#sc+=`              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="323"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 0.980s;"
+>                  =c#%#cs#ss+==*-==*csc##sccc**+**+*=`-+=-s#ss*+=-              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="334"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.015s;"
+>                  +s##sc#ccc**c*=+**cccc*+=+++==*+*c+==::-#ss*++==.             </text>
+
+<text
+class="ascii-row"
+x="0"
+y="345"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.050s;"
+>                 .*s##csscccss#*+***cs*+=======+*+c++:.`-*#c*+++==`             </text>
+
+<text
+class="ascii-row"
+x="0"
+y="356"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.085s;"
+>                 .*s#ss#c*cs%%##****ssc++=++===*+*c=+:.:-ss*+*+=---             </text>
+
+<text
+class="ascii-row"
+x="0"
+y="367"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.120s;"
+>                  *#sc##s#ss#%%#***csss*+++===**+c*+++:`-csc***+===`            </text>
+
+<text
+class="ascii-row"
+x="0"
+y="378"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.155s;"
+>                  :ss##ss#####ss***csssc+++==+*++sc+ccc--cccc**++==:            </text>
+
+<text
+class="ascii-row"
+x="0"
+y="389"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.190s;"
+>                   .:==+****=.-c***sssc*+*++=**+*s*+*sss+*cssssc+=+=.           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="400"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.225s;"
+>                              +c**+ccc*ccc+=+*+=cs**csccs**c*****===:           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="411"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.260s;"
+>                             `***++**+****==+++=cc*++c#s##*=--===-==:           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="422"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.295s;"
+>                             -**+++++===++=+++==cc*+*cs#####scc*++==-           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="433"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.330s;"
+>                            .+*+++++====++=++==+c*+*s#s#********c*==-           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="444"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.365s;"
+>                            -*++++c=---====+===*s*+s%##s=-==+csssc++:           </text>
+
+<text
+class="ascii-row"
+x="0"
+y="455"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.400s;"
+>                           .+++=+*c*=--========c#cc%sc*cssss*+=-==+=            </text>
+
+<text
+class="ascii-row"
+x="0"
+y="466"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.435s;"
+>                           -++++**c*+++=======+css#c:-++=+*cssc**c*.            </text>
+
+<text
+class="ascii-row"
+x="0"
+y="477"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.470s;"
+>                          .++**+*cc+=++++++==++cscs+:``:------+cc-              </text>
+
+<text
+class="ascii-row"
+x="0"
+y="488"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.505s;"
+>                          :+**+**c+==++****++**c=:--===+=+++*s#s:               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="499"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.540s;"
+>                          -+****cc==++*csssc***-:-=+==+++=+cs#sc-               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="510"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.575s;"
+>                         .=+****cccccccccscssc****++===-=*s##c**+               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="521"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.610s;"
+>                         -=+csccsssssssccccs#ccssscc*++*cs#%s+*c+               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="532"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.645s;"
+>                        .+=*ssscss###%#scccs+:-*csssss###s##**ss-               </text>
+
+<text
+class="ascii-row"
+x="0"
+y="543"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.680s;"
+>                        -+*csssssscccs##ss+`.::-+s######scs#scs*                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="554"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.715s;"
+>                       .=++csccss+==+cs#s=..`:--:*%%#c*+*cc+*cs-                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="565"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.750s;"
+>                       `=++cccccc++*ccc*-```:--::##s*++===-=*cc.                </text>
+
+<text
+class="ascii-row"
+x="0"
+y="576"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.785s;"
+>                        .`-******sc**+*+:-:=-=-`*#c*+++=-=+*ss+                 </text>
+
+<text
+class="ascii-row"
+x="0"
+y="587"
+fill="#c9d1d9"
+font-family="monospace"
+font-size="10px"
+xml:space="preserve"
+style="animation-delay: 1.820s;"
+>                            .`:=+*+===+*-=:=`*=.cc++====+**csc`                 </text>
+</svg>
