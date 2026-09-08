@@ -1,8 +1,6 @@
 <div align="center">
 
-# Pruthvik L Shetty
-
-### Backend Engineer · Distributed Systems · FastAPI / C++
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00ADD8,100:009688&height=200&section=header&text=Pruthvik%20L%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FastAPI%20%2F%20C%2B%2B&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 Final-year Information Science & Engineering student at MITE Mangalore, building backend systems and distributed infrastructure.
 
@@ -49,17 +47,6 @@ Final-year Information Science & Engineering student at MITE Mangalore, building
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pruthviklshetty&show_icons=true&theme=default&hide_border=false&border_color=e3e3e3&bg_color=ffffff&title_color=222222&text_color=333333&icon_color=4169E1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviklshetty&theme=default&hide_border=false&border=e3e3e3&background=ffffff&ring=4169E1&fire=4169E1&currStreakLabel=222222" />
-
-</div>
 
 ---
 
