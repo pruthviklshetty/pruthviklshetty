@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00ADD8,100:009688&height=200&section=header&text=Pruthvik%20L%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FastAPI%20%2F%20C%2B%2B&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00ADD8,100:009688&height=200&section=header&text=Pruthvik%20L%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=%20Engineer%20%7C%20Distributed%20Systems%20%7C%20FastAPI%20%2F%20C%2B%2B&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 Final-year Information Science & Engineering student at MITE Mangalore, building backend systems and distributed infrastructure.
 
